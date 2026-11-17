@@ -1,4 +1,4 @@
-# Awesome zgui [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome zgui
 
 A curated list of crates, applications and resources for [zgui](https://github.com/zortax/zgui),
 a native Rust UI framework with fine-grained reactivity, real CSS and a retained GPU renderer.
